@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: com.google.cloud.bigdataoss:gcs-connector:hadoop2-2.0.0:shaded:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/null/Coursier/cache/v1/https/repo1.maven.org/maven2/com/google/cloud/bigdataoss/gcs-connector/hadoop2-2.0.0/gcs-connector-hadoop2-2.0.0-shaded.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\alexe\IdeaProjects\dotty-simple\target\scala-2.12\classes.bak
+[debug] About to delete class files:
+[debug] 	example_dataframe$.class
+[debug] 	example_dataframe.class
+[debug] We backup class files:
+[debug] 	example_dataframe$.class
+[debug] 	example_dataframe.class
+[debug] Registering generated classes:
+[debug] 	example_dataframe$.class
+[debug] 	example_dataframe.class
+[debug] Removing the temporary directory used for backing up class files: C:\Users\alexe\IdeaProjects\dotty-simple\target\scala-2.12\classes.bak

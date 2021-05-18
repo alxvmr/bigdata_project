@@ -1,0 +1,41 @@
+[debug] Packaging C:\Users\alexe\IdeaProjects\dotty-simple\target\scala-2.12\dotty-simple_2.12-0.1.0.jar ...
+[debug] Input file mappings:
+[debug] 	Event$.class
+[debug] 	  C:\Users\alexe\IdeaProjects\dotty-simple\target\scala-2.12\classes\Event$.class
+[debug] 	Event.class
+[debug] 	  C:\Users\alexe\IdeaProjects\dotty-simple\target\scala-2.12\classes\Event.class
+[debug] 	example_dataframe$.class
+[debug] 	  C:\Users\alexe\IdeaProjects\dotty-simple\target\scala-2.12\classes\example_dataframe$.class
+[debug] 	example_dataframe.class
+[debug] 	  C:\Users\alexe\IdeaProjects\dotty-simple\target\scala-2.12\classes\example_dataframe.class
+[debug] 	example_dataset$$typecreator4$1.class
+[debug] 	  C:\Users\alexe\IdeaProjects\dotty-simple\target\scala-2.12\classes\example_dataset$$typecreator4$1.class
+[debug] 	example_dataset$.class
+[debug] 	  C:\Users\alexe\IdeaProjects\dotty-simple\target\scala-2.12\classes\example_dataset$.class
+[debug] 	example_dataset.class
+[debug] 	  C:\Users\alexe\IdeaProjects\dotty-simple\target\scala-2.12\classes\example_dataset.class
+[debug] 	generator$.class
+[debug] 	  C:\Users\alexe\IdeaProjects\dotty-simple\target\scala-2.12\classes\generator$.class
+[debug] 	generator$Event$.class
+[debug] 	  C:\Users\alexe\IdeaProjects\dotty-simple\target\scala-2.12\classes\generator$Event$.class
+[debug] 	generator$Event.class
+[debug] 	  C:\Users\alexe\IdeaProjects\dotty-simple\target\scala-2.12\classes\generator$Event.class
+[debug] 	generator.class
+[debug] 	  C:\Users\alexe\IdeaProjects\dotty-simple\target\scala-2.12\classes\generator.class
+[debug] 	pubsub$.class
+[debug] 	  C:\Users\alexe\IdeaProjects\dotty-simple\target\scala-2.12\classes\pubsub$.class
+[debug] 	pubsub$Event$.class
+[debug] 	  C:\Users\alexe\IdeaProjects\dotty-simple\target\scala-2.12\classes\pubsub$Event$.class
+[debug] 	pubsub$Event.class
+[debug] 	  C:\Users\alexe\IdeaProjects\dotty-simple\target\scala-2.12\classes\pubsub$Event.class
+[debug] 	pubsub.class
+[debug] 	  C:\Users\alexe\IdeaProjects\dotty-simple\target\scala-2.12\classes\pubsub.class
+[debug] 	pubsub_task1$.class
+[debug] 	  C:\Users\alexe\IdeaProjects\dotty-simple\target\scala-2.12\classes\pubsub_task1$.class
+[debug] 	pubsub_task1.class
+[debug] 	  C:\Users\alexe\IdeaProjects\dotty-simple\target\scala-2.12\classes\pubsub_task1.class
+[debug] 	pubsub_write_to_bigquery$.class
+[debug] 	  C:\Users\alexe\IdeaProjects\dotty-simple\target\scala-2.12\classes\pubsub_write_to_bigquery$.class
+[debug] 	pubsub_write_to_bigquery.class
+[debug] 	  C:\Users\alexe\IdeaProjects\dotty-simple\target\scala-2.12\classes\pubsub_write_to_bigquery.class
+[debug] Done packaging.

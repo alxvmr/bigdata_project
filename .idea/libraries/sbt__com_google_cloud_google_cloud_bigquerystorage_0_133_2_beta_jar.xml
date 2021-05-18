@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: com.google.cloud:google-cloud-bigquerystorage:0.133.2-beta:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/null/Coursier/cache/v1/https/repo1.maven.org/maven2/com/google/cloud/google-cloud-bigquerystorage/0.133.2-beta/google-cloud-bigquerystorage-0.133.2-beta.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/null/Coursier/cache/v1/https/repo1.maven.org/maven2/com/google/cloud/google-cloud-bigquerystorage/0.133.2-beta/google-cloud-bigquerystorage-0.133.2-beta-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/null/Coursier/cache/v1/https/repo1.maven.org/maven2/com/google/cloud/google-cloud-bigquerystorage/0.133.2-beta/google-cloud-bigquerystorage-0.133.2-beta-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
